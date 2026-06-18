@@ -1,6 +1,9 @@
 # Google-Trends-Visualization
 Google Trends Search 2001 - 2020
 
+Data Source: Google Trends Research
+Kaggle Dataset: https://www.kaggle.com/datasets/dhruvildave/google-trends-dataset
+
 ----------------------------------------
 
 streamlit run trends_explorer.py
